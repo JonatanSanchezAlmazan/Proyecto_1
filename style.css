@@ -61,7 +61,7 @@ a {
 }
 
 .active {
-    color: #c39c63;
+    color: var(--c--colorFont);
 }
 
 .text-center {
